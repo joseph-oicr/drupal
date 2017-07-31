@@ -1,0 +1,4 @@
+general:
+  branches:
+      only:
+            - 7.x
